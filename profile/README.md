@@ -4,10 +4,11 @@
   <img src="InViLab_logo.png" alt="InViLab Logo">
 </div>
 
-[![University of Antwerp](https://img.shields.io/badge/University-Antwerp-blue)](https://www.uantwerpen.be/en/research-groups/industrial-vision-lab)
+
 [![Website](https://img.shields.io/badge/Website-invilab.be-green)](https://invilab.be)
 [![GenPyCam](https://img.shields.io/badge/Product-GenPyCam-orange)](https://genpycam.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-invilab--uantwerp-blue)](https://linkedin.com/company/invilab-uantwerp)
+[![University of Antwerp](https://img.shields.io/badge/University-Antwerp-blue)](https://www.uantwerpen.be/en/research-groups/industrial-vision-lab)
 
 ## About Us
 
